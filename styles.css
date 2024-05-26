@@ -1,0 +1,68 @@
+body {
+    margin: 0;
+    background-color: rgb(17,24,39);
+    font-family: Inter, Helvetica Neue, Helvetica, Arial, sans-serif;
+    color: aliceblue;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between; 
+    padding: 30px;
+    font-size: 30px;
+}
+
+.logo img {
+    height: 140px; 
+    width: 140px;
+}
+
+.options {
+    display: flex;
+    justify-content: flex-end; 
+}
+
+.nav a {
+    margin-right: 60px; 
+    text-decoration: none;
+    color: AliceBlue;
+}
+
+.nav a:hover {
+    text-decoration: underline;
+    text-decoration-color: AliceBlue;
+    text-decoration-thickness: 3px;
+    text-underline-offset: 10px;
+}
+
+.nav button{
+    background-color: rgb(15, 118, 110);
+    color: aliceblue;
+    border-radius: 12px;
+    height: 50px;
+    width: 90px;
+    
+}
+
+.main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 100px;
+}
+
+
+.mainImg img{
+    display: flex;
+    align-items: center;
+    height: 500px;
+    width: 500px;
+}
+
+    
+
+
+
+
+
+ 

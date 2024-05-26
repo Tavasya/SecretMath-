@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    background-color: rgb(17,24,39);
+    font-family: Inter, Helvetica Neue, Helvetica, Arial, sans-serif;
+    color: aliceblue;
+    display: flex;
+    flex-direction: column;
+    margin: 30px;
+}
+
+.sets{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.setTitle{
+    font-size:3px;
+}
+
+
+
+
+
+
+.logic{
+    display: flex;
+    align-items: center;
+    padding-top: 60px;
+}
+
+.proofs{
+    display: flex;
+    align-items: center;
+    padding-top: 60px;
+}
+
+.algo{
+    display: flex;
+    align-items: center;
+    padding-top: 60px;
+}
+
+
+.counting{
+    display: flex;
+    align-items: center;
+    padding-top: 60px;
+}
